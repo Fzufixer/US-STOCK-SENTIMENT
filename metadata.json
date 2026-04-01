@@ -1,0 +1,5 @@
+{
+  "name": "US Stock Sentiment Map",
+  "description": "A real-time visualization of US stock market sentiment across different states using NewsAPI, X (Twitter), and Gemini AI.",
+  "requestFramePermissions": []
+}
