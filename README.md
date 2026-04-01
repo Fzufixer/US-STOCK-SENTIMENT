@@ -3,6 +3,9 @@
 本项目是一个全栈 Web 应用程序，旨在通过交互式地图可视化美国各州的美股情绪指标。系统整合实时新闻分析、股票价格走势与 AI 情感识别，为用户提供直观、动态的市场情绪洞察。
 This is a full-stack web application designed to visualize U.S. stock market sentiment indicators by state through an interactive map. The application integrates real-time news analysis, stock price trends, and AI-powered sentiment recognition to deliver intuitive and dynamic market sentiment insights.
 
+<img width="1775" height="1059" alt="1775057174207" src="https://github.com/user-attachments/assets/8f41121f-7ade-46d2-9c7b-8f02c4c6369b" />
+
+
 ## 核心功能 / Core Features
 - 基于美国各州地图展示美股情绪指标
 - 实时获取新闻数据与股票行情
