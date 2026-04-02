@@ -58,5 +58,3 @@ The system uses a separated frontend-backend architecture: the backend is built 
 This project integrates geographic information systems (GIS), financial big data, and generative AI to build a visual, interactive, and real-time updatable U.S. stock market sentiment monitoring tool for market observation, investment reference, and decision support.
 
 ---
-
-需要我帮你生成 **标准 GitHub README.md 文件（带标题、徽章、目录、截图位）** 吗？我可以直接给你完整可提交版本。
